@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas para el componente de GifItem Coincide con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="One Punch Man Deepanshu GIF"
+      src="https://media0.giphy.com/media/Qm3xCXWifrgzb9aEqg/giphy.gif?cid=99c9bfceiwn7b4eh0iirynl87muyn7fwoxvpr4b9hr8oiul6&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      One Punch Man Deepanshu GIF
+    </p>
+  </div>
+</div>
+`;

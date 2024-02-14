@@ -4,13 +4,13 @@ export const GifItem = ({ title, path }) => {
 
   return (
     <div className='card'>
-      <img src={path} />
+      <img src={path} alt={title} />
       <p>{ title }</p>
     </div>
   )
 }
 
 GifItem.propTypes = {
-  title: PropTypes.string,
+  title: PropTypes.string.isRequired,
   path: PropTypes.string.isRequired
 }
